@@ -32,5 +32,5 @@ I'm a Bachelor of Computer Applications graduate from Pragjyotish College, build
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumanMed01&layout=compact&theme=tokyonight)
 
 * 📫 **Email**: sumanmedhi775@gmail.com
-* 💼 **LinkedIn**: [linkedin.com/in/sumanmedhi](https://linkedin.com/in/sumanmedhi)
+* 💼 **LinkedIn**: https://www.linkedin.com/in/suman-medhi-20381624b/
 * 📍 **Location**: Guwahati, Assam, India
