@@ -26,11 +26,8 @@ I'm a Bachelor of Computer Applications graduate from Pragjyotish College, build
 
 ---
 
-### 📊 Stats & Connectivity
+### 🌐 Connect with Me
 
-![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumanMed01&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumanMed01&layout=compact&theme=tokyonight)
-
-* 📫 **Email**: sumanmedhi775@gmail.com
-* 💼 **LinkedIn**: https://www.linkedin.com/in/suman-medhi-20381624b/
-* 📍 **Location**: Guwahati, Assam, India
+| 💼 LinkedIn | 📧 Email | 📍 Location |
+| :--- | :--- | :--- |
+| [Profile](https://www.linkedin.com/in/suman-medhi-20381624b/) | [sumanmedhi775@gmail.com](mailto:sumanmedhi775@gmail.com) | Guwahati, Assam |
